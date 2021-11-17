@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 EIDOSN ORLANDO
 LOPEZ GALARZA
 JAVA JavaScript Dart
 MySql ORACLE
+=======
+LOPEZ GALARZA 
+EDISON ORLANDO
+>>>>>>> develop
